@@ -689,6 +689,7 @@ h3 {
   .hero {
     min-height: 86vh;
     padding-top: 96px;
+    padding-bottom: 44px;
   }
 
   .section,
@@ -723,8 +724,8 @@ h3 {
   }
 
   h1 {
-    max-width: 12ch;
-    font-size: clamp(2.65rem, 12vw, 4.1rem);
+    max-width: 14ch;
+    font-size: clamp(2.45rem, 11vw, 3.65rem);
   }
 
   .approach-grid,
